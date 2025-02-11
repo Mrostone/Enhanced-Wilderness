@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "explore:birch_pile",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1132718226,
+    "spacing": 13,
+    "separation": 8
+  }
+}
